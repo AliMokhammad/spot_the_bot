@@ -1,0 +1,6 @@
+__pycache__
+
+*.zip
+venv
+Clean_Dataset
+Processed_Dataset
