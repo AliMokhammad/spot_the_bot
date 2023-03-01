@@ -7,5 +7,5 @@ This project contains all code segments required to generate the dataset and tra
 1. Create a virtual environment: `python -m venv myenv`
 2. Activate the virtual environment: `source myenv/bin/activate`
 3. Install the required libraries: `pip install -r requirements.txt`
-4. Run the following command to download and preprocess the dataset: `python camel_data.py -i all`
+4. Run the following command to download and preprocess the dataset: `camel_data -i all`
 5. Run the processing code to train and evaluate the model: `python process_dataset.py`

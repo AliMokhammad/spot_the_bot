@@ -37,6 +37,5 @@ def process_single_file(j):
     with open(txt_file, 'w') as file:
         file.write(processed_arabic_text)  
 
-# for j in range(1314):
-for j in range(2):
+for j in range(1314):
     process_single_file(j)
